@@ -20,11 +20,7 @@ Fused online shopping 🛒 with social media insights 🐦, crafting a unique ex
 ### [🌐 My Personal Website](https://www.ethanxu.tech)
 Discover my journey and projects on an engaging site where visitors can toggle themes 🌗, like projects ❤️, and reach out directly 💬 - a nexus for networking and collaboration 🤝.
 
-Feel free to explore my repositories 📂, connect with me on [LinkedIn](https://www.linkedin.com/in/ethan-xu1/) 💼, and have a look at my [resume](https://example.com/resume.pdf) 📄 for more information on my professional background.
-
-
-
-
+Feel free to explore my repositories 📂, connect with me on [LinkedIn](https://www.linkedin.com/in/ethan-xu1/)💼, and have a look at my [resume](https://www.ethanxu.tech/#/resume) 📄 for more information on my professional background.
 
 
 
@@ -35,10 +31,6 @@ Feel free to explore my repositories 📂, connect with me on [LinkedIn](https:/
 - Design & Mapping: Figma, ArcGIS
 
 
-
-
-
-Feel free to check out my repositories and connect with me through [LinkedIn](https://www.linkedin.com/in/ethan-xu1/) 
 
 <!-- [![YourGithubUsername's github stats](https://github-readme-stats.vercel.app/api?username=dxu104)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -85,10 +77,6 @@ Feel free to check out my repositories and connect with me through [LinkedIn](ht
 ### Design
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=dxu104)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=dxu104.dxu104)](https://github.com/dxu104)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dxu104)](https://git.io/streak-stats)
 
