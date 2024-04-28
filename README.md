@@ -19,7 +19,7 @@ I'm Ethan, a passionate software developer from San Jose,CA. I've just finished 
 
 Feel free to check out my repositories and connect with me through [LinkedIn](https://www.linkedin.com/in/ethan-xu1/) 
 
-[![YourGithubUsername's github stats](https://github-readme-stats.vercel.app/api?username=dxu104)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![YourGithubUsername's github stats](https://github-readme-stats.vercel.app/api?username=dxu104)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxu104)](https://github.com/anuraghazra/github-readme-stats)
@@ -54,7 +54,7 @@ Feel free to check out my repositories and connect with me through [LinkedIn](ht
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
 
 ### Database Technologies
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -65,6 +65,7 @@ Feel free to check out my repositories and connect with me through [LinkedIn](ht
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dxu104)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dxu104.dxu104)
+
 
 
