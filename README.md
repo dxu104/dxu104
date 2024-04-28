@@ -1,44 +1,32 @@
 # Hello there! 👋
 
-Welcome to my GitHub page!
+Welcome to my GitHub page! 🎉
 
-## About Me
+## About Me 🙋‍♂️
 
-I'm Ethan, a passionate software developer from San Jose, CA. I specialize in cloud computing, backend development, and DevOps. I'm currently enhancing my skills and knowledge at Northeastern University, where I also assist students as a Graduate Teaching Assistant.
+I'm Ethan, a software developer driven by passion and innovation in ☁️ cloud computing, 🔙 backend development, and 🛠 DevOps, currently honing my skills at Northeastern University. 
 
-## Work Experience
+## Project Experience 💼
 
-### Graduate Teaching Assistant
-**Northeastern University College of Engineering** - Boston, MA  
-*Jan. 2024 - Present (Part-time)*
-- Lead instructional sessions on Git, CI/CD, and AWS & GCP Services.
-- Mentor a group of 200+ students in cloud computing projects and classwork.
+### [🚀 High-Performance Cloud-Native Web Application](https://github.com/dxu104/webapp-submit)
+Transformed backend deployment 🔄 with secure data practices 🔒, developed robust RESTful APIs ⚙️, and set up advanced AWS networking 🌐.
 
-### Software Engineer Co-op
-**MDI Biological Laboratory** - Maine, Bar Harbor  
-*Jul. 2023 – Dec. 2023*
-- Managed over 1 TB of vital RNA-seq data from axolotl experiments.
-- Crafted a transcriptome annotation pipeline using Python, NextFlow, and Groovy.
+### [📰 News Aggregator](https://github.com/dxu104/News_Aggregator)
+Engineered a Web Crawler 🕷 using Spring Boot, capturing articles from top news outlets 📰, enhanced with a responsive React UI 💻 and boosted by Mybatis and Redis 🚀.
 
-### Graduate Research Assistant
-**Syracuse University College of Engineering and Computer Science** - Syracuse, NY  
-*Jan. 2021 - Aug. 2022*
-- Analyzed 60 years of environmental data using R and contributed to peer-reviewed papers.
+### [🛍️ Amazon-Twitter Fusion App](https://youtu.be/OEGvcgRMMZo)
+Fused online shopping 🛒 with social media insights 🐦, crafting a unique experience with personalized filters and trending insights, visualized through Figma 🎨.
 
-## Project Experience
+### [🌐 My Personal Website](https://www.ethanxu.tech)
+Discover my journey and projects on an engaging site where visitors can toggle themes 🌗, like projects ❤️, and reach out directly 💬 - a nexus for networking and collaboration 🤝.
 
-### [High-Performance Cloud-Native Web Application](https://github.com/dxu104/webapp-submit)
-- Improved backend application deployment, focusing on secure data management and server automation.
-- Implemented RESTful APIs, configured AWS networking, and maintained logs and metrics on AWS CloudWatch.
+Feel free to explore my repositories 📂, connect with me on [LinkedIn](https://www.linkedin.com/in/ethan-xu1/) 💼, and have a look at my [resume](https://example.com/resume.pdf) 📄 for more information on my professional background.
 
-### [News Aggregator](https://github.com/dxu104/News_Aggregator)
-This project involved creating a News Aggregator Web Crawler using Spring Boot to collect articles from major news sources, integrated with a React frontend for cross-device compatibility, and performance boosts from Mybatis and Redis caching.
 
-### [Amazon-Twitter Fusion App](https://youtu.be/OEGvcgRMMZo)
-The Amazon-Twitter Fusion App project tackled user experience challenges in online shopping and social media by introducing personalized review filters and trending pages. Key features were prototyped using Figma, and usability tests led to significant enhancements in user engagement.
 
-### [My Personal Website](https://www.ethanxu.tech)
-Check out my personal website - a landing spot for HR professionals to get to know me better.
+
+
+
 
 ## Skills & Tech Stacks
 - Programming Languages: Java, Python, JavaScript, TypeScript, C++, HTML, CSS, Linux, Rust, Solidity, R, SAS, Groovy
@@ -46,7 +34,6 @@ Check out my personal website - a landing spot for HR professionals to get to kn
 - Databases: MySQL, Mybatis, Redis
 - Design & Mapping: Figma, ArcGIS
 
-[![My Personal Website](https://www.ethanxu.tech)](https://www.ethanxu.tech)
 
 
 
@@ -100,6 +87,8 @@ Feel free to check out my repositories and connect with me through [LinkedIn](ht
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=dxu104)
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=dxu104.dxu104)](https://github.com/dxu104)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dxu104)](https://git.io/streak-stats)
 
