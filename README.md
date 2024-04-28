@@ -19,4 +19,7 @@ I'm Ethan, a passionate software developer from San Jose,CA. I've just finished 
 
 Feel free to check out my repositories and connect with me through [LinkedIn](https://www.linkedin.com/in/ethan-xu1/) 
 
+[![YourGithubUsername's github stats](https://github-readme-stats.vercel.app/api?username=dxu104)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxu104)](https://github.com/anuraghazra/github-readme-stats)
