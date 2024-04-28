@@ -4,18 +4,52 @@ Welcome to my GitHub page!
 
 ## About Me
 
-I'm Ethan, a passionate software developer from San Jose,CA. I've just finished an exciting project, a personal job-seeking website hosted right here on GitHub!
+I'm Ethan, a passionate software developer from San Jose, CA. I specialize in cloud computing, backend development, and DevOps. I'm currently enhancing my skills and knowledge at Northeastern University, where I also assist students as a Graduate Teaching Assistant.
 
-## My Projects
+## Work Experience
 
-- [My Personal Website](https://www.ethanxu.tech) - a landing spot for HR professionals to get to know me better.
+### Graduate Teaching Assistant
+**Northeastern University College of Engineering** - Boston, MA  
+*Jan. 2024 - Present (Part-time)*
+- Lead instructional sessions on Git, CI/CD, and AWS & GCP Services.
+- Mentor a group of 200+ students in cloud computing projects and classwork.
+
+### Software Engineer Co-op
+**MDI Biological Laboratory** - Maine, Bar Harbor  
+*Jul. 2023 – Dec. 2023*
+- Managed over 1 TB of vital RNA-seq data from axolotl experiments.
+- Crafted a transcriptome annotation pipeline using Python, NextFlow, and Groovy.
+
+### Graduate Research Assistant
+**Syracuse University College of Engineering and Computer Science** - Syracuse, NY  
+*Jan. 2021 - Aug. 2022*
+- Analyzed 60 years of environmental data using R and contributed to peer-reviewed papers.
+
+## Project Experience
+
+### [High-Performance Cloud-Native Web Application](https://github.com/dxu104/webapp-submit)
+- Improved backend application deployment, focusing on secure data management and server automation.
+- Implemented RESTful APIs, configured AWS networking, and maintained logs and metrics on AWS CloudWatch.
+
+### [News Aggregator](https://github.com/dxu104/News_Aggregator)
+This project involved creating a News Aggregator Web Crawler using Spring Boot to collect articles from major news sources, integrated with a React frontend for cross-device compatibility, and performance boosts from Mybatis and Redis caching.
+
+### [Amazon-Twitter Fusion App](https://youtu.be/OEGvcgRMMZo)
+The Amazon-Twitter Fusion App project tackled user experience challenges in online shopping and social media by introducing personalized review filters and trending pages. Key features were prototyped using Figma, and usability tests led to significant enhancements in user engagement.
+
+### [My Personal Website](https://www.ethanxu.tech)
+Check out my personal website - a landing spot for HR professionals to get to know me better.
+
+## Skills & Tech Stacks
+- Programming Languages: Java, Python, JavaScript, TypeScript, C++, HTML, CSS, Linux, Rust, Solidity, R, SAS, Groovy
+- Frameworks & Tools: Spring Boot, Node.js, React Native, Redux, CI/CD, Terraform, Packer, Docker, Kubernetes, Ansible
+- Databases: MySQL, Mybatis, Redis
+- Design & Mapping: Figma, ArcGIS
+
+[![My Personal Website](https://www.ethanxu.tech)](https://www.ethanxu.tech)
 
 
-## Skills
 
-- 🌐 Frontend Development with HTML, CSS, JavaScript, and React
-- ⚙️ Backend Development with Node.js, Express, etc.
-- 🛠 Tools: Git, Docker, AWS
 
 Feel free to check out my repositories and connect with me through [LinkedIn](https://www.linkedin.com/in/ethan-xu1/) 
 
@@ -65,7 +99,10 @@ Feel free to check out my repositories and connect with me through [LinkedIn](ht
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dxu104.dxu104)
+![](https://visitor-badge.glitch.me/badge?page_id=dxu104)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dxu104)](https://git.io/streak-stats)
+
 
 
 
