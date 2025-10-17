@@ -17,8 +17,6 @@ Engineered a Web Crawler 🕷 using Spring Boot, capturing articles from top new
 ### [🛍️ Amazon-Twitter Fusion App](https://youtu.be/OEGvcgRMMZo)
 Fused online shopping 🛒 with social media insights 🐦, crafting a unique experience with personalized filters and trending insights, visualized through Figma 🎨.
 
-### [🌐 My Personal Website](https://www.ethanxu.tech)
-Discover my journey and projects on an engaging site where visitors can toggle themes 🌗, like projects ❤️, and reach out directly 💬 - a nexus for networking and collaboration 🤝.
 
 Feel free to explore my repositories 📂, connect with me on [LinkedIn](https://www.linkedin.com/in/ethan-xu1/)💼, and have a look at my [resume](https://www.ethanxu.tech/#/resume) 📄 for more information on my professional background.
 
