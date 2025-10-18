@@ -18,7 +18,6 @@ Engineered a Web Crawler 🕷 using Spring Boot, capturing articles from top new
 Fused online shopping 🛒 with social media insights 🐦, crafting a unique experience with personalized filters and trending insights, visualized through Figma 🎨.
 
 
-Feel free to explore my repositories 📂, connect with me on [LinkedIn](https://www.linkedin.com/in/ethan-xu1/)💼, and have a look at my [resume](https://www.ethanxu.tech/#/resume) 📄 for more information on my professional background.
 
 
 
